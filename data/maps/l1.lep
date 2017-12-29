@@ -1,0 +1,13 @@
+[EDITOR]
+Version=0.01
+[LEVEL]
+Path=C:\Users\nickm\Desktop\Code\Game Boy Advance\(Scratch) The Most Difficult Platformer Ever!\data\maps\l1.led
+Rows=23
+Columns=158
+[TEXTURE]
+Path=C:\Users\nickm\Desktop\Code\Game Boy Advance\(Scratch) The Most Difficult Platformer Ever!\data\maps\stage.bmp
+Rows=32
+Columns=32
+[TILES]
+Width=16
+Height=16
